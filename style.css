@@ -814,11 +814,11 @@ a {
 }
 
 .service-item:nth-child(1) dt {
-  background-image: url(../img/service1.svg);
+  background-image: url(service1.svg);
 }
 
 .service-item:nth-child(2) dt {
-  background-image: url(../img/service2.svg);
+  background-image: url(service2.svg);
 }
 
 @media (max-width: 767px) {
@@ -828,7 +828,7 @@ a {
 }
 
 .service-item:nth-child(3) dt {
-  background-image: url(../img/service3.svg);
+  background-image: url(service3.svg);
 }
 
 @media (max-width: 767px) {
@@ -1274,22 +1274,22 @@ tr:not(:first-child) .price-table td {
 }
 
 .comments-item:nth-child(1):before {
-  background: url(../img/comments1.png) center center/contain no-repeat;
+  background: url(comments1.png) center center/contain no-repeat;
 }
 
 @media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min-device-pixel-ratio: 2), only screen and (min-resolution: 192dpi), only screen and (min-resolution: 2dppx) {
   .comments-item:nth-child(1):before {
-    background: url(../img/comments1@2x.png) center center/contain no-repeat;
+    background: url(comments1@2x.png) center center/contain no-repeat;
   }
 }
 
 .comments-item:nth-child(2):before {
-  background: url(../img/comments2.png) center center/contain no-repeat;
+  background: url(comments2.png) center center/contain no-repeat;
 }
 
 @media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min-device-pixel-ratio: 2), only screen and (min-resolution: 192dpi), only screen and (min-resolution: 2dppx) {
   .comments-item:nth-child(2):before {
-    background: url(../img/comments2@2x.png) center center/contain no-repeat;
+    background: url(comments2@2x.png) center center/contain no-repeat;
   }
 }
 
@@ -1320,7 +1320,7 @@ tr:not(:first-child) .price-table td {
 /* faq
 ---------------------------- */
 .faq {
-  background-image: url(../img/sunyu-kim-1053375-unsplash.png);
+  background-image: url(sunyu-kim-1053375-unsplash.png);
   background-position: top center;
   background-size: cover;
   margin-top: 60px;
@@ -1345,7 +1345,7 @@ tr:not(:first-child) .price-table td {
 
 @media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min-device-pixel-ratio: 2), only screen and (min-resolution: 192dpi), only screen and (min-resolution: 2dppx) {
   .faq {
-    background-image: url(../img/sunyu-kim-1053375-unsplash@2x.png) top center/cover;
+    background-image: url(sunyu-kim-1053375-unsplash@2x.png) top center/cover;
   }
 }
 
@@ -1635,7 +1635,7 @@ tr:not(:first-child) .price-table td {
 /* contact
 ---------------------------- */
 .contact {
-  background: url(../img/alex-blajan-159378-unsplash.png) center center/cover;
+  background: url(alex-blajan-159378-unsplash.png) center center/cover;
   padding: 40px 16px;
 }
 
@@ -1648,7 +1648,7 @@ tr:not(:first-child) .price-table td {
 
 @media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min-device-pixel-ratio: 2), only screen and (min-resolution: 192dpi), only screen and (min-resolution: 2dppx) {
   .contact {
-    background: url(../img/alex-blajan-159378-unsplash@2x.png) center center/cover;
+    background: url(alex-blajan-159378-unsplash@2x.png) center center/cover;
   }
 }
 
@@ -1697,7 +1697,7 @@ tr:not(:first-child) .price-table td {
 }
 
 .contact-header:before {
-  background: url(../img/contact.jpg) center center/cover no-repeat;
+  background: url(contact.jpg) center center/cover no-repeat;
   content: '';
   display: block;
   height: 100%;
