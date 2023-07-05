@@ -1345,7 +1345,7 @@ tr:not(:first-child) .price-table td {
 
 @media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min-device-pixel-ratio: 2), only screen and (min-resolution: 192dpi), only screen and (min-resolution: 2dppx) {
   .faq {
-    background-image: url(sunyu-kim-1053375-unsplash@2x.png) top center/cover;
+    background-image: url(sunyu-kim-1053375-unsplash@2x.png);
   }
 }
 
