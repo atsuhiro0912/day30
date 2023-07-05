@@ -385,8 +385,7 @@ a {
 /* hero
 ---------------------------- */
 .hero {
-  background-image: url(	https://atsuhiro0912.github.io/day30/mv@2x.png
-);
+  background-image: url(mv@2x.png);
   background-position: 24% center;
   background-size: cover;
   height: 648px;
