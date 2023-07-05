@@ -386,7 +386,7 @@ a {
 ---------------------------- */
 .hero {
   background-image: url(https://github.com/atsuhiro0912/day30/blob/main/mv@2x.png?raw=true);
-  background-image: url(mv@2x.png);
+  background: url(mv@2x.png);
   background-position: 24% center;
   background-size: cover;
   height: 648px;
